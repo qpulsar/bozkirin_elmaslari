@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>...</title>
+    <link rel="stylesheet" href="styles/App.css">
+</head>
+<body>
+    <div class="app">
+        <div class="container">
+            
+            <!-- Card Resources -->
+            <div class="pcard" align="center">
+                <h3 align="center"><strong>Kimlik Kartı</strong></h3>
+                <br><br>
+                <div class="mainarea">
+                    <div class="details">
+                        Ad: <strong>Lara</strong><br>
+                        Soyad: <strong>Çelik</strong><br>
+                        <br>
+                        Yaş: <strong>10</strong><br>
+                        Cinsiyet: <strong>Kız</strong><br>
+                        <br>
+                        Kan Grubu: <strong>A Rh +</strong><br>
+                        Doğum Yeri: <strong>Sivas</strong><br>
+                        Doğum Tarihi: <strong>01.06.2012</strong><br>
+                    </div>
+                    <div class="profile">
+                        <img src="images/profile.jpg" alt="Profile Image" width="150" height="150" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
