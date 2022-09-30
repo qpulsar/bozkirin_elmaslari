@@ -5,6 +5,7 @@ Bozkırın Elmasları IQSES projesi
 # SN OK Etkinlik  Ortam/Materyal Yazar
 
 1 Sesle LED kontrolü Mbot/Mblock Pınar Arslan
+
 2 Görsellerle Mbot kontrolü Mbot / Mblock Pınar Arslan
 3 Çiçek tanıma Mblock Hatun Ünal
 4 Lazer Güvenlik Arduino Doğan Erol
